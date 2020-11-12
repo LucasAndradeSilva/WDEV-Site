@@ -1,4 +1,4 @@
-# wdev-site
+# Estudo Vuejs Consumindo API
 
 ## Project setup
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Imagem
+![image](https://user-images.githubusercontent.com/49761779/98966465-1187ed00-24ea-11eb-8d68-59d32f20c71a.png)
